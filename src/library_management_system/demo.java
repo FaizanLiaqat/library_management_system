@@ -6,6 +6,8 @@ public class demo {
 		System.out.println("Hello World!");
 		System.out.println("I love Punjabi Anime!");
 		System.out.println("I love Faizan!");
+		System.out.println("YEEEEE");
+
 
 	}
 
